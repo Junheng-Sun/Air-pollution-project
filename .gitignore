@@ -1,0 +1,11 @@
+# IntelliJ IDEA personal settings
+.idea/
+*.iml
+out/
+
+# Gradle local files and compiled output
+.gradle/
+build/
+
+# Local database credentials - never upload this file
+src/main/resources/application-local.properties
